@@ -6,7 +6,7 @@ use CodelyTv\Mooc\Videos\Application\Find\VideoFinder;
 use CodelyTv\Mooc\Videos\Domain\VideoNotFound;
 use CodelyTv\Tests\Mooc\Videos\Domain\VideoIdMother;
 use CodelyTv\Tests\Mooc\Videos\Domain\VideoMother;
-use CodelyTv\Tests\Mooc\Videos\VideosModuleUnitTestCase;
+use CodelyTv\Tests\Mooc\Videos\Infrastructure\VideosModuleUnitTestCase;
 
 class VideoRenamerCommandTest extends VideosModuleUnitTestCase
 {

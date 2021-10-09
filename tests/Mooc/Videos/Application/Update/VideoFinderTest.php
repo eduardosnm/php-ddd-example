@@ -6,7 +6,7 @@ use CodelyTv\Mooc\Videos\Application\Update\UpdateVideoTitleCommandHandler;
 use CodelyTv\Mooc\Videos\Application\Update\VideoTitleUpdater;
 use CodelyTv\Tests\Mooc\Videos\Domain\VideoMother;
 use CodelyTv\Tests\Mooc\Videos\Domain\VideoTitleMother;
-use CodelyTv\Tests\Mooc\Videos\VideosModuleUnitTestCase;
+use CodelyTv\Tests\Mooc\Videos\Infrastructure\VideosModuleUnitTestCase;
 use CodelyTv\Tests\Shared\Domain\DuplicatorMother;
 
 class VideoFinderTest extends VideosModuleUnitTestCase

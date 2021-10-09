@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace CodelyTv\Tests\Mooc\Videos;
+namespace CodelyTv\Tests\Mooc\Videos\Infrastructure;
 
 use CodelyTv\Mooc\Courses\Domain\Course;
 use CodelyTv\Mooc\Courses\Domain\CourseRepository;
